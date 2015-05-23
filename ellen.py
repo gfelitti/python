@@ -1,7 +1,7 @@
 def falaellen(fala):
     if fala == "Gigi":
         print ("Oi")
-    elif fala == "Cê me ama?":
+    elif fala == "Ce me ama?":
         print ("Amo")
     elif fala == "Ama muito?":
         print ("Muito")
@@ -10,6 +10,3 @@ def falaellen(fala):
     return
 
 falaellen("Gigi")
-falaellen("Cê me ama?")
-falaellen("Coisinha linda")
-falaellen("Ama muito?")
